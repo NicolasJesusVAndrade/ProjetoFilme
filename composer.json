@@ -1,0 +1,9 @@
+{
+    "name": "qi/app_musicas",
+    "autoload": {
+        "psr-4": {
+            "APP\\":"src/"
+        }
+    },
+    "require": {}
+}
